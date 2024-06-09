@@ -1,6 +1,6 @@
 # CaptchaFree
 
-CaptchaFree is a Selenium WebDriver wrapper that automatically solves reCAPTCHA locally using OpenAI's Whisper model. This tool seamlessly integrates with any Selenium WebDriver instance, enabling you to automate web interactions without the hassle of reCAPTCHA interruptions.
+CaptchaFree is a Selenium WebDriver wrapper that automatically solves reCAPTCHA using a local version of OpenAI's Whisper model. This tool seamlessly integrates with any Selenium WebDriver instance, enabling you to automate web interactions without the hassle of reCAPTCHA interruptions.
 
 ## How are we solving captcha?
 
